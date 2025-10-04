@@ -1,0 +1,21 @@
+.container,
+.container-fluid {
+  border: solid 1px red;
+}
+
+.row {
+  border: solid 1px green;
+}
+
+.col {
+  border: solid 1px blue;
+  background-color: orange;
+  padding: 10px;
+  min-height: 80px;
+  text-align: center;
+}
+
+/* div {
+  margin: 5px;
+  padding: 5px;
+} */
